@@ -1,5 +1,5 @@
 # Albums
-<h3>Home Page</h3>
+<h2>Home Page</h2>
 <p>It just shows the Albums of Taylor Swift and is having the Buy Button which takes you to the Amazon purchase page</p>
 <img width="376" alt="screen shot 2017-08-30 at 8 03 24 pm" src="https://user-images.githubusercontent.com/18078687/29901676-e36c9fd0-8dbe-11e7-8517-2ecc51e7c153.png">
 
